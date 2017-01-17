@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_55fdda8b64f41249f6a2c5334cc3e1c05445497c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_7b04d19f058b04846025dd628955a8b0d3c4064b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_659c9b4e5e90e4dde91936789ae77f743a2f076c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_c8876ae822f34206dd95c5dc244406bce08a33cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_ba10c906fb00bb22bde58930e7beb5de812af9c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.6/3562c66f648480d3bd4f76cff722488ced13445b/kotlin-runtime-1.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3562c66f648480d3bd4f76cff722488ced13445b">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/pre-dexed/debug/kotlin-runtime-1.0.6_dbaa15daf49a5db19bfd0292079f40527c3a1260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_4f6da9f3599142da902cdc4e281a2cfca4f39c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_332d32718d3a586caba5460a1675f889b48b1ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_9da74eb4d55da6fcb281a5829e8054a9ef7620b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_e1d275adfc9358a4cfab2e83a9017c3c57b8c79a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.6/d19acb6ed49b9c48228c0e5dff8071fce23be4b8/kotlin-stdlib-1.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d19acb6ed49b9c48228c0e5dff8071fce23be4b8">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.0.6_1e7dc776ee77f7b9a114c9e61a19cfe824b18eec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/KotlinHelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_be959cdcc24871b32ae43e41b64fb927cc3ff6d9.jar" />
+    </item>
+
+</items>
