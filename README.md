@@ -2,7 +2,8 @@
 ## It's a LoadingDialog by Kotlin
 
 ![gif](https://github.com/guangzq/KotlinLoadingDialog/blob/master/app/src/main/java/com/zqg/kotlin/loading.gif)
-###使用方式
+
+### 使用方式
 ```
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
